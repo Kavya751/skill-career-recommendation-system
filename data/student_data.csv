@@ -1,0 +1,91 @@
+student_id,name,course_name,completion_%,grade,time_spent_hours
+S001,Student1,Machine Learning Fundamentals,75,A,28
+S001,Student1,Python for Data Science,66,B,67
+S001,Student1,Deep Learning with TensorFlow,94,A+,57
+S001,Student1,Java Programming Basics,87,A+,21
+S002,Student2,SQL and Database Management,92,B,21
+S002,Student2,Business Analytics with Tableau,95,A,65
+S003,Student3,Deep Learning with TensorFlow,88,B,37
+S003,Student3,React and Frontend Development,60,A,64
+S003,Student3,Excel for Data Analysis,87,A,37
+S003,Student3,SQL and Database Management,69,A,68
+S004,Student4,Machine Learning Fundamentals,66,A,74
+S004,Student4,Business Analytics with Tableau,82,B,36
+S004,Student4,Excel for Data Analysis,62,B,49
+S005,Student5,Machine Learning Fundamentals,78,B,59
+S005,Student5,Excel for Data Analysis,83,B,32
+S005,Student5,Business Analytics with Tableau,64,A+,62
+S005,Student5,React and Frontend Development,74,A,25
+S006,Student6,Cybersecurity Essentials,84,A,49
+S006,Student6,Machine Learning Fundamentals,100,A,30
+S007,Student7,Data Structures and Algorithms in Python,77,B,79
+S007,Student7,SQL and Database Management,64,B,60
+S007,Student7,Statistics for Data Science,70,B,66
+S008,Student8,Web Development with HTML CSS JavaScript,84,A,79
+S008,Student8,Introduction to Artificial Intelligence,100,B,55
+S009,Student9,Statistics for Data Science,63,A,72
+S009,Student9,Data Structures and Algorithms in Python,62,A,45
+S010,Student10,Machine Learning Fundamentals,80,A,61
+S010,Student10,SQL and Database Management,91,B+,76
+S010,Student10,Cloud Computing with AWS,89,A,36
+S011,Student11,SQL and Database Management,95,B,36
+S011,Student11,Deep Learning with TensorFlow,97,B+,77
+S012,Student12,Excel for Data Analysis,92,B+,25
+S012,Student12,Data Structures and Algorithms in Python,63,A+,29
+S012,Student12,SQL and Database Management,100,A,70
+S012,Student12,Web Development with HTML CSS JavaScript,87,B,24
+S013,Student13,Excel for Data Analysis,93,A,55
+S013,Student13,Cloud Computing with AWS,60,B,66
+S013,Student13,Introduction to Artificial Intelligence,67,B,76
+S014,Student14,Mobile App Development with Flutter,81,A+,38
+S014,Student14,Java Programming Basics,87,A,49
+S014,Student14,Business Analytics with Tableau,60,B,76
+S014,Student14,Statistics for Data Science,76,B,68
+S015,Student15,React and Frontend Development,100,A,73
+S015,Student15,Machine Learning Fundamentals,100,B,58
+S016,Student16,Web Development with HTML CSS JavaScript,70,B,69
+S016,Student16,Data Structures and Algorithms in Python,93,A+,58
+S017,Student17,Introduction to Artificial Intelligence,83,A,35
+S017,Student17,Python for Data Science,63,A,76
+S017,Student17,Machine Learning Fundamentals,96,A+,25
+S018,Student18,Introduction to Artificial Intelligence,68,A,62
+S018,Student18,Cybersecurity Essentials,90,B,30
+S018,Student18,Machine Learning Fundamentals,76,B,75
+S018,Student18,React and Frontend Development,98,B+,33
+S019,Student19,Mobile App Development with Flutter,79,B+,62
+S019,Student19,Deep Learning with TensorFlow,83,B+,77
+S019,Student19,Cybersecurity Essentials,93,B+,27
+S019,Student19,SQL and Database Management,75,A,24
+S020,Student20,Python for Data Science,74,B,34
+S020,Student20,Cloud Computing with AWS,60,A+,65
+S020,Student20,React and Frontend Development,100,A+,34
+S021,Student21,Business Analytics with Tableau,81,A+,52
+S021,Student21,Python for Data Science,75,A,62
+S022,Student22,SQL and Database Management,96,B,50
+S022,Student22,React and Frontend Development,75,B+,71
+S022,Student22,Web Development with HTML CSS JavaScript,86,A,26
+S023,Student23,Statistics for Data Science,82,B+,46
+S023,Student23,Excel for Data Analysis,89,B,23
+S024,Student24,Statistics for Data Science,85,B,41
+S024,Student24,Business Analytics with Tableau,66,A,32
+S024,Student24,Machine Learning Fundamentals,72,B,48
+S024,Student24,Python for Data Science,68,B+,31
+S025,Student25,Introduction to Artificial Intelligence,88,B,26
+S025,Student25,SQL and Database Management,63,B,54
+S025,Student25,Machine Learning Fundamentals,60,A+,79
+S026,Student26,Web Development with HTML CSS JavaScript,91,B+,33
+S026,Student26,Excel for Data Analysis,85,A+,30
+S027,Student27,Python for Data Science,89,A,47
+S027,Student27,Excel for Data Analysis,95,B,65
+S027,Student27,Java Programming Basics,91,A,32
+S028,Student28,SQL and Database Management,94,A+,67
+S028,Student28,Python for Data Science,80,A+,23
+S028,Student28,Cloud Computing with AWS,97,B+,52
+S029,Student29,Web Development with HTML CSS JavaScript,71,A+,58
+S029,Student29,Python for Data Science,64,B,75
+S029,Student29,React and Frontend Development,75,B+,27
+S029,Student29,Machine Learning Fundamentals,96,A,57
+S030,Student30,Python for Data Science,97,B,53
+S030,Student30,Cloud Computing with AWS,80,A,33
+S030,Student30,Machine Learning Fundamentals,80,A,36
+S030,Student30,Excel for Data Analysis,85,A,62

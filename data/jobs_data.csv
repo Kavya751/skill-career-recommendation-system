@@ -1,0 +1,21 @@
+job_id,job_title,company,required_skills,description
+J001,Data Analyst,Tech Solutions Inc,"Python, SQL, Excel, Statistics, Tableau",Analyze data trends and create reports
+J002,Machine Learning Engineer,AI Innovations,"Python, Machine Learning, TensorFlow, Deep Learning, Statistics",Build and deploy ML models
+J003,Frontend Developer,Web Studios,"HTML, CSS, JavaScript, React",Create responsive web interfaces
+J004,Full Stack Developer,StartUp Hub,"Python, JavaScript, SQL, React, Cloud Computing",Develop end-to-end web applications
+J005,Data Scientist,Analytics Corp,"Python, Machine Learning, Statistics, SQL, Tableau",Extract insights from large datasets
+J006,Backend Developer,Cloud Services Ltd,"Python, Java, SQL, Cloud Computing, AWS",Build scalable server-side applications
+J007,Business Analyst,Consulting Group,"Excel, SQL, Tableau, Statistics, Business Analytics",Provide data-driven business insights
+J008,AI Research Intern,Research Labs,"Python, Machine Learning, Deep Learning, TensorFlow, Artificial Intelligence",Work on cutting-edge AI projects
+J009,Mobile App Developer,Mobile First,"Flutter, Mobile App Development, Java, JavaScript",Create cross-platform mobile applications
+J010,Cybersecurity Analyst,SecureNet,"Cybersecurity, Python, Cloud Computing",Monitor and protect systems from threats
+J011,Database Administrator,Data Systems,"SQL, Database Management, Python, Cloud Computing",Manage and optimize databases
+J012,Software Engineer,Tech Giants,"Python, Java, Data Structures, Algorithms",Design and develop software solutions
+J013,Data Engineer,BigData Inc,"Python, SQL, Cloud Computing, AWS, Data Structures",Build data pipelines and infrastructure
+J014,UI/UX Designer,Design Studio,"HTML, CSS, JavaScript, React, Frontend Development",Design user-friendly interfaces
+J015,Cloud Engineer,CloudTech,"Cloud Computing, AWS, Python, SQL",Deploy and manage cloud infrastructure
+J016,Junior Data Analyst,Analytics StartUp,"Python, Excel, SQL, Statistics",Entry-level data analysis position
+J017,Deep Learning Engineer,Neural Networks Co,"Python, Deep Learning, TensorFlow, Machine Learning, Artificial Intelligence",Develop neural network models
+J018,Web Developer,Web Agency,"HTML, CSS, JavaScript, Python, SQL",Create dynamic websites
+J019,BI Developer,Business Intelligence,"SQL, Tableau, Excel, Business Analytics, Python",Build business intelligence dashboards
+J020,Algorithm Developer,Algorithm Solutions,"Python, Java, Data Structures, Algorithms, Machine Learning",Design efficient algorithms

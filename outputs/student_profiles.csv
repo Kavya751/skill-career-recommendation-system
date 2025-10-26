@@ -1,0 +1,237 @@
+student_id,skill,proficiency
+S001,C,0.82
+S001,R,0.97
+S001,Machine Learning,0.76
+S001,Python,0.74
+S001,Data Science,0.74
+S001,Deep Learning,0.97
+S001,TensorFlow,0.97
+S001,Java,0.82
+S002,SQL,0.75
+S002,Database Management,0.75
+S002,C,0.95
+S002,Business Analytics,0.95
+S002,Tableau,0.95
+S003,R,0.85
+S003,Deep Learning,0.8
+S003,TensorFlow,0.8
+S003,C,0.85
+S003,React,0.77
+S003,Frontend Development,0.77
+S003,Data Analysis,0.85
+S003,Excel,0.85
+S003,SQL,0.81
+S003,Database Management,0.81
+S004,C,0.8
+S004,R,0.8
+S004,Machine Learning,0.8
+S004,Business Analytics,0.76
+S004,Tableau,0.76
+S004,Data Analysis,0.72
+S004,Excel,0.72
+S005,C,0.82
+S005,R,0.8
+S005,Machine Learning,0.8
+S005,Data Analysis,0.75
+S005,Excel,0.75
+S005,Business Analytics,0.82
+S005,Tableau,0.82
+S005,React,0.74
+S005,Frontend Development,0.74
+S006,C,0.89
+S006,R,0.89
+S006,Cybersecurity,0.89
+S006,Machine Learning,0.89
+S007,Python,0.79
+S007,C,0.79
+S007,R,0.79
+S007,Data Structures,0.79
+S007,Algorithms,0.79
+S007,SQL,0.73
+S007,Database Management,0.73
+S007,Data Science,0.76
+S007,Statistics,0.76
+S008,Java,0.89
+S008,JavaScript,0.89
+S008,C,0.91
+S008,R,0.91
+S008,HTML,0.89
+S008,CSS,0.89
+S008,Web Development,0.89
+S008,Artificial Intelligence,0.91
+S009,C,0.78
+S009,R,0.78
+S009,Data Science,0.78
+S009,Statistics,0.78
+S009,Python,0.76
+S009,Data Structures,0.76
+S009,Algorithms,0.76
+S010,C,0.87
+S010,R,0.87
+S010,Machine Learning,0.87
+S010,SQL,0.9
+S010,Database Management,0.9
+S010,AWS,0.86
+S010,Cloud Computing,0.86
+S011,SQL,0.83
+S011,Database Management,0.83
+S011,R,0.93
+S011,Deep Learning,0.93
+S011,TensorFlow,0.93
+S012,C,0.8
+S012,R,0.8
+S012,Data Analysis,0.8
+S012,Excel,0.8
+S012,Python,0.73
+S012,Data Structures,0.73
+S012,Algorithms,0.73
+S012,SQL,0.97
+S012,Database Management,0.97
+S012,Java,0.74
+S012,JavaScript,0.74
+S012,HTML,0.74
+S012,CSS,0.74
+S012,Web Development,0.74
+S013,C,0.94
+S013,R,0.94
+S013,Data Analysis,0.94
+S013,Excel,0.94
+S013,AWS,0.71
+S013,Cloud Computing,0.71
+S013,Artificial Intelligence,0.75
+S014,R,0.9
+S014,Flutter,0.86
+S014,Mobile App Development,0.86
+S014,Java,0.9
+S014,C,0.9
+S014,Business Analytics,0.71
+S014,Tableau,0.71
+S014,Data Science,0.79
+S014,Statistics,0.79
+S015,C,0.97
+S015,R,0.97
+S015,React,0.97
+S015,Frontend Development,0.97
+S015,Machine Learning,0.91
+S016,Java,0.76
+S016,JavaScript,0.76
+S016,C,0.97
+S016,R,0.97
+S016,HTML,0.76
+S016,CSS,0.76
+S016,Web Development,0.76
+S016,Python,0.97
+S016,Data Structures,0.97
+S016,Algorithms,0.97
+S017,C,0.88
+S017,R,0.88
+S017,Artificial Intelligence,0.83
+S017,Python,0.78
+S017,Data Science,0.78
+S017,Machine Learning,0.88
+S018,C,0.86
+S018,R,0.86
+S018,Artificial Intelligence,0.81
+S018,Cybersecurity,0.78
+S018,Machine Learning,0.79
+S018,React,0.86
+S018,Frontend Development,0.86
+S019,R,0.85
+S019,Flutter,0.83
+S019,Mobile App Development,0.83
+S019,Deep Learning,0.85
+S019,TensorFlow,0.85
+S019,C,0.81
+S019,Cybersecurity,0.81
+S019,SQL,0.74
+S019,Database Management,0.74
+S020,Python,0.72
+S020,C,0.94
+S020,R,0.94
+S020,Data Science,0.72
+S020,AWS,0.8
+S020,Cloud Computing,0.8
+S020,React,0.94
+S020,Frontend Development,0.94
+S021,C,0.91
+S021,Business Analytics,0.91
+S021,Tableau,0.91
+S021,Python,0.84
+S021,R,0.84
+S021,Data Science,0.84
+S022,SQL,0.89
+S022,Database Management,0.89
+S022,C,0.81
+S022,R,0.81
+S022,React,0.81
+S022,Frontend Development,0.81
+S022,Java,0.8
+S022,JavaScript,0.8
+S022,HTML,0.8
+S022,CSS,0.8
+S022,Web Development,0.8
+S023,C,0.83
+S023,R,0.83
+S023,Data Science,0.83
+S023,Statistics,0.83
+S023,Data Analysis,0.75
+S023,Excel,0.75
+S024,C,0.8
+S024,R,0.8
+S024,Data Science,0.8
+S024,Statistics,0.8
+S024,Business Analytics,0.73
+S024,Tableau,0.73
+S024,Machine Learning,0.76
+S024,Python,0.7
+S025,C,0.8
+S025,R,0.8
+S025,Artificial Intelligence,0.75
+S025,SQL,0.73
+S025,Database Management,0.73
+S025,Machine Learning,0.8
+S026,Java,0.83
+S026,JavaScript,0.83
+S026,C,0.84
+S026,R,0.84
+S026,HTML,0.83
+S026,CSS,0.83
+S026,Web Development,0.83
+S026,Data Analysis,0.84
+S026,Excel,0.84
+S027,Python,0.9
+S027,C,0.9
+S027,R,0.9
+S027,Data Science,0.9
+S027,Data Analysis,0.89
+S027,Excel,0.89
+S027,Java,0.85
+S028,SQL,0.97
+S028,Database Management,0.97
+S028,Python,0.79
+S028,C,0.93
+S028,R,0.79
+S028,Data Science,0.79
+S028,AWS,0.93
+S028,Cloud Computing,0.93
+S029,Java,0.85
+S029,JavaScript,0.85
+S029,C,0.95
+S029,R,0.95
+S029,HTML,0.85
+S029,CSS,0.85
+S029,Web Development,0.85
+S029,Python,0.73
+S029,Data Science,0.73
+S029,React,0.72
+S029,Frontend Development,0.72
+S029,Machine Learning,0.95
+S030,Python,0.9
+S030,C,0.9
+S030,R,0.9
+S030,Data Science,0.9
+S030,AWS,0.8
+S030,Cloud Computing,0.8
+S030,Machine Learning,0.81
+S030,Data Analysis,0.9
+S030,Excel,0.9

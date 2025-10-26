@@ -1,0 +1,91 @@
+student_id,job_id,job_title,company,match_%
+S001,J002,Machine Learning Engineer,AI Innovations,73.34
+S001,J008,AI Research Intern,Research Labs,64.32
+S001,J017,Deep Learning Engineer,Neural Networks Co,64.32
+S002,J019,BI Developer,Business Intelligence,64.11
+S002,J007,Business Analyst,Consulting Group,60.48
+S002,J011,Database Administrator,Data Systems,57.34
+S003,J011,Database Administrator,Data Systems,39.99
+S003,J014,UI/UX Designer,Design Studio,37.93
+S003,J002,Machine Learning Engineer,AI Innovations,36.17
+S004,J019,BI Developer,Business Intelligence,64.43
+S004,J007,Business Analyst,Consulting Group,60.71
+S004,J005,Data Scientist,Analytics Corp,41.03
+S005,J019,BI Developer,Business Intelligence,53.87
+S005,J007,Business Analyst,Consulting Group,50.76
+S005,J014,UI/UX Designer,Design Studio,39.92
+S006,J002,Machine Learning Engineer,AI Innovations,48.56
+S006,J010,Cybersecurity Analyst,SecureNet,47.3
+S006,J005,Data Scientist,Analytics Corp,43.36
+S007,J012,Software Engineer,Tech Giants,59.89
+S007,J020,Algorithm Developer,Algorithm Solutions,50.83
+S007,J011,Database Administrator,Data Systems,44.77
+S008,J014,UI/UX Designer,Design Studio,49.46
+S008,J018,Web Developer,Web Agency,49.37
+S008,J003,Frontend Developer,Web Studios,46.05
+S009,J012,Software Engineer,Tech Giants,69.92
+S009,J020,Algorithm Developer,Algorithm Solutions,59.35
+S009,J013,Data Engineer,BigData Inc,46.56
+S010,J011,Database Administrator,Data Systems,78.37
+S010,J015,Cloud Engineer,CloudTech,58.86
+S010,J006,Backend Developer,Cloud Services Ltd,50.86
+S011,J011,Database Administrator,Data Systems,59.61
+S011,J002,Machine Learning Engineer,AI Innovations,53.91
+S011,J008,AI Research Intern,Research Labs,47.39
+S012,J012,Software Engineer,Tech Giants,58.38
+S012,J020,Algorithm Developer,Algorithm Solutions,49.32
+S012,J018,Web Developer,Web Agency,41.93
+S013,J013,Data Engineer,BigData Inc,50.18
+S013,J015,Cloud Engineer,CloudTech,46.11
+S013,J006,Backend Developer,Cloud Services Ltd,39.92
+S014,J009,Mobile App Developer,Mobile First,65.27
+S014,J007,Business Analyst,Consulting Group,47.04
+S014,J019,BI Developer,Business Intelligence,40.08
+S015,J014,UI/UX Designer,Design Studio,61.28
+S015,J002,Machine Learning Engineer,AI Innovations,36.79
+S015,J005,Data Scientist,Analytics Corp,32.85
+S016,J012,Software Engineer,Tech Giants,65.13
+S016,J020,Algorithm Developer,Algorithm Solutions,55.02
+S016,J018,Web Developer,Web Agency,50.9
+S017,J017,Deep Learning Engineer,Neural Networks Co,62.18
+S017,J008,AI Research Intern,Research Labs,62.18
+S017,J020,Algorithm Developer,Algorithm Solutions,40.92
+S018,J017,Deep Learning Engineer,Neural Networks Co,52.15
+S018,J008,AI Research Intern,Research Labs,52.15
+S018,J014,UI/UX Designer,Design Studio,46.38
+S019,J009,Mobile App Developer,Mobile First,56.47
+S019,J011,Database Administrator,Data Systems,40.55
+S019,J002,Machine Learning Engineer,AI Innovations,36.68
+S020,J013,Data Engineer,BigData Inc,51.91
+S020,J015,Cloud Engineer,CloudTech,49.13
+S020,J014,UI/UX Designer,Design Studio,46.13
+S021,J019,BI Developer,Business Intelligence,62.29
+S021,J007,Business Analyst,Consulting Group,54.7
+S021,J001,Data Analyst,Tech Solutions Inc,23.63
+S022,J014,UI/UX Designer,Design Studio,75.01
+S022,J003,Frontend Developer,Web Studios,48.44
+S022,J018,Web Developer,Web Agency,42.52
+S023,J016,Junior Data Analyst,Analytics StartUp,34.76
+S023,J012,Software Engineer,Tech Giants,29.54
+S023,J001,Data Analyst,Tech Solutions Inc,28.98
+S024,J005,Data Scientist,Analytics Corp,58.74
+S024,J007,Business Analyst,Consulting Group,58.47
+S024,J019,BI Developer,Business Intelligence,53.55
+S025,J017,Deep Learning Engineer,Neural Networks Co,58.37
+S025,J008,AI Research Intern,Research Labs,58.37
+S025,J011,Database Administrator,Data Systems,54.73
+S026,J014,UI/UX Designer,Design Studio,46.12
+S026,J018,Web Developer,Web Agency,46.04
+S026,J003,Frontend Developer,Web Studios,42.94
+S027,J012,Software Engineer,Tech Giants,45.63
+S027,J020,Algorithm Developer,Algorithm Solutions,39.09
+S027,J013,Data Engineer,BigData Inc,30.52
+S028,J011,Database Administrator,Data Systems,74.5
+S028,J013,Data Engineer,BigData Inc,58.83
+S028,J015,Cloud Engineer,CloudTech,57.97
+S029,J014,UI/UX Designer,Design Studio,72.09
+S029,J003,Frontend Developer,Web Studios,46.55
+S029,J018,Web Developer,Web Agency,38.88
+S030,J013,Data Engineer,BigData Inc,56.32
+S030,J015,Cloud Engineer,CloudTech,41.59
+S030,J020,Algorithm Developer,Algorithm Solutions,41.53
