@@ -15,7 +15,7 @@ This system solves these problems by:
 3. Matching students with suitable jobs/internships
 4. Identifying skill gaps and recommending learning paths
 
-## ✅ Current Implementation (25-30%)
+## ✅ Current Implementation 
 
 ### Completed Features:
 - ✅ Student data collection and storage
