@@ -86,6 +86,6 @@ Team of 4 students - 5th Semester Mini Project
 
 Academic project for educational purposes
 
----
 
-**Status:** 25-30% Complete | **Next Demo:** [Add date]
+
+
